@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently learning new things
-- 🌱 I’m currently learning AI/ML
+- 🌱 I’m curious about AI/ML and Deep Learning
 - 💬 Ask me about Node js, Intel OpenVINO, Python
 - 📫 How to reach me: tofiqbakhshiyev@gmail.com 
 
