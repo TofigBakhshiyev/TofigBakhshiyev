@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 -->  
 - 📫 How to reach me: tofiqbakhshiyev@gmail.com 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TofigBakhshiyev&langs_count=8&theme=buefy&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TofigBakhshiyev&langs_count=12&theme=buefy&layout=compact)
